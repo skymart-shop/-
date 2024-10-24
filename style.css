@@ -105,6 +105,12 @@ body {
         width: 230px; /* Initial width for mobile screens */
         transition: width 0.3s ease; /* Smooth width transition */
     }
+    .cart-icon{
+        font-size: x-small;
+        margin-top: 60px;
+        align-items: flex-end;
+    }
+
 
     
 }
